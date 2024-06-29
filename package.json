@@ -1,0 +1,30 @@
+{
+  "name": "moralisstream",
+  "version": "1.0.0",
+  "description": "Moralis Script",
+  "main": "index.js",
+  "dependencies": {
+    "data-uri-to-buffer": "^4.0.1",
+    "fetch-blob": "^3.2.0",
+    "formdata-polyfill": "^4.0.10",
+    "moralis": "^2.26.2",
+    "node-domexception": "^1.0.0",
+    "node-fetch": "^3.3.2",
+    "web-streams-polyfill": "^3.3.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "create": "node 01_create.js",
+    "update": "node 02_update.js",
+    "delete": "node 03_deleteStream.js",
+    "add": "node 04_addAddresses.js",
+    "getstreams": "node 05_getStreams.js",
+    "status": "node 06_getStatus.js",
+    "updatestatus": "node 07_updateStreamStatus.js",
+    "getwebhook": "node 08_getWebhook.js",
+    "updatewebhook": "node 09_updateWebhook.js",
+    "pair": "node getPairAddress.js"
+  },
+  "author": "Hasanalskall89",
+  "license": "MIT"
+}

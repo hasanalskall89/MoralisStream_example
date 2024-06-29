@@ -1,0 +1,55 @@
+{
+ "result": [
+  {
+   "id": "0d653a7a-05da-4f4a-8eec-bca8725046cd",
+   "webhookUrl": "https://f40e-2a02-2454-8169-9200-5f0-16c8-42de-f987.ngrok-free.app/webhook",
+   "description": "UniSwapV2",
+   "tag": "ETH/USDT $ LINK/WETH",
+   "demo": false,
+   "topic0": null,
+   "allAddresses": false,
+   "includeNativeTxs": true,
+   "filterPossibleSpamAddresses": false,
+   "includeContractLogs": true,
+   "includeInternalTxs": true,
+   "includeAllTxLogs": false,
+   "getNativeBalances": [],
+   "triggers": [],
+   "abi": null,
+   "advancedOptions": null,
+   "chainIds": [
+    "0x1"
+   ],
+   "status": "active",
+   "statusMessage": "Stream is active",
+   "amountOfAddresses": 0,
+   "updatedAt": "2024-05-26T17:39:34.711Z"
+  },
+  {
+   "id": "9947d8ef-26d1-4012-8404-852f91b4be65",
+   "webhookUrl": "https://f40e-2a02-2454-8169-9200-5f0-16c8-42de-f987.ngrok-free.app/webhook",
+   "description": "UniSwapV2",
+   "tag": "ETH/USDT $ LINK/WETH",
+   "demo": false,
+   "topic0": null,
+   "allAddresses": false,
+   "includeNativeTxs": true,
+   "filterPossibleSpamAddresses": false,
+   "includeContractLogs": false,
+   "includeInternalTxs": false,
+   "includeAllTxLogs": false,
+   "getNativeBalances": [],
+   "triggers": [],
+   "abi": null,
+   "advancedOptions": null,
+   "chainIds": [
+    "0x1"
+   ],
+   "status": "active",
+   "statusMessage": "Stream is active",
+   "amountOfAddresses": 0,
+   "updatedAt": "2024-05-26T17:40:43.024Z"
+  }
+ ],
+ "total": 2
+}
