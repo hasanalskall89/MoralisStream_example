@@ -114,7 +114,7 @@ After that Run:
 In the CONSOLE you can Find the Stream ID:
 
 ```bash
-0d653a7a-05da-4f4a-8eec-bca8725046cd
+0d65****-05da-4f**-8eec-bca87250****
 ```
 ## Update The Stream
 
