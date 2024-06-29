@@ -34,27 +34,6 @@ app.get("/", async (req, res) => {
  
 })
 
-// setInterval(json, 10000);
-
-// function json() {
-//  const load = 
-//  JSON.parse(
-//   fs.existsSync('data.json')
-//    ? fs.readFileSync('data.json').toString()
-//    : '""'
-//  );
-//  console.log(load)
-//  fs.writeFileSync(
-//   'data.json',
-//   JSON.stringify(
-//    Result,
-//    null,
-//    2
-//   )
-//  )
-// }
-
-
 app.listen(port, () => {
  console.log(`Listeing To Stream`);
 })
